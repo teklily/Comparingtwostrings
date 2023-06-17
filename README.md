@@ -1,4 +1,10 @@
 # Comparingtwostrings
+
+Requirements: 
+Pandas
+openpyxl
+The Fuzz - Levenshtein distance library, so you don't have to write out the math in your code.
+
 Comparing two excel files and two strings using the Levenshtein Distance.
 
 It will contain a unique identifier column, the original search string, the second search string and the "Similarity", but more accurately, the Levenshtein Distance.
